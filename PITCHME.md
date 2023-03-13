@@ -9,7 +9,7 @@ headingDivider: 2
 ---
 
 <!-- _class: title -->
-# <!--fit--> From markdown to slide deck
+# From markdown to slide deck
 
 ---
 
@@ -29,9 +29,11 @@ This could be useful, because:
 - the same markdown could be used to publish other formats
 - the markdown could be generated from dynamic data
 
-What else can it do?
+## What else can it do?
 
 You can even add slides notes using markdown comments.
+
+Press 'p' to open presenter view.
 
 <!-- Here are the slide notes for this slide -->
 
