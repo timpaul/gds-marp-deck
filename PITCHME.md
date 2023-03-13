@@ -18,6 +18,14 @@ This deck has been generated from [a Markdown file](https://raw.githubuserconten
 
 The markdown file is hosted in [a repo on GitHub](https://github.com/timpaul/gds-marp-deck/). When you push changes to it, it publishes the deck to [GitHub Pages](https://timpaul.github.io/gds-marp-deck/)
 
+## Here's the Markdown for the last slide
+
+```
+## How does it work?
+
+The markdown file is hosted in [a repo on GitHub](https://github.com/timpaul/gds-marp-deck/). When you push changes to it, it publishes the deck to [GitHub Pages](https://timpaul.github.io/gds-marp-deck/)
+```
+
 ## What's the big deal?
 
 - it lets authors focus on the content
