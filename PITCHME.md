@@ -9,18 +9,18 @@ headingDivider: 2
 
 <!-- _class: title -->
 
-# Slide 1
+# Decks from Markdown
 
-Text on slide 1
+Product and Technology
 
-# Generate GDS slide decks from markdown
+## Generate GDS slide decks from markdown
 
 This deck has been generated automatically from [the markdown in this file](https://raw.githubusercontent.com/timpaul/gds-marp-deck/master/PITCHME.md)
 
-# Slide 3
+## Slide 3
 
 Text on slide 3
 
-# Slide 4
+## Slide 4
 
 Text on slide 4
