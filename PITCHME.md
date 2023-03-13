@@ -9,7 +9,7 @@ headingDivider: 2
 
 <!-- _class: title -->
 
-# Decks from Markdown
+# <!--fit--> Decks from Markdown
 
 Product and Technology
 
