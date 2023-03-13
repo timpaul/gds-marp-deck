@@ -17,7 +17,7 @@ This whole deck has been generated automatically from [this Markdown file](https
 ## How does it work?
 
 The markdown file is hosted in [a repo on GitHub](https://github.com/timpaul/gds-marp-deck/). 
-When you push changes to it, it auto-publishes to [GitHub Pages](https://timpaul.github.io/gds-marp-deck/).
+When you push changes to it, it auto-publishes the deck to [GitHub Pages](https://timpaul.github.io/gds-marp-deck/).
 
 ## What's the big deal?
 
@@ -28,7 +28,7 @@ When you push changes to it, it auto-publishes to [GitHub Pages](https://timpaul
 
 ## Any other benefits?
 
-Markdown is just plan text. It can be written anywhere, and it's easy to generate automatically form data.
+Markdown is just plan text. It can be written anywhere and it's easy to generate from data.
 
 For example, we could auto-generate decks from performance data, and re-use the same markdown to generate reports in other formats.
 
