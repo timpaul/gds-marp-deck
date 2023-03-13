@@ -9,16 +9,29 @@ headingDivider: 2
 ---
 
 <!-- _class: title -->
-# <!--fit--> Generating slide decks from Markdown using Marp
+# <!--fit--> From markdown to slide deck
 
 ---
 
-This deck has been generated automatically from [the markdown in this file](https://raw.githubusercontent.com/timpaul/gds-marp-deck/master/PITCHME.md)
+This whole deck has been generated automatically from [the markdown in this file](https://raw.githubusercontent.com/timpaul/gds-marp-deck/master/PITCHME.md), using a thing called [Marp](https://marp.app/).
 
-## Slide 3
+## How does it work?
 
-Text on slide 3
+The markdown file is hosted on GitHub. When you push changes to it, it auto-publishes to GitHub Pages.
 
-## Slide 4
+## What's the big deal?
 
-Text on slide 4
+This could be useful, because:
+
+- it lets authors focus on the content
+- the results are accessible and mobile friendly
+- the decks will be very consistently designed
+- the same markdown could be used to publish other formats
+- the markdown could be generated from dynamic data
+
+What else can it do?
+
+You can even add slides notes using markdown comments.
+
+<!-- Here are the slide notes for this slide -->
+
