@@ -27,7 +27,7 @@ The markdown file is hosted in [a repo on GitHub](https://github.com/timpaul/gds
 
 ## Any other benefits?
 
-Markdown is just plan text. It can be written anywhere and it's easy to generate from data.
+Markdown is just plain text. It can be written anywhere and it's easy to generate from data.
 
 We could generate decks from performance data and re-use the same markdown to generate other reports.
 
