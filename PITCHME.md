@@ -40,3 +40,17 @@ Press 'p' to open presenter view.
 
 <!-- Here are the slide notes for this slide -->
 
+## Any downsides?
+
+Yep!
+
+- requires technical skills and confidence
+- adding images and diagrams is a lot harder
+- decks aren't discoverable from within Google Drive
+- no collaboration features like comments
+
+## So what could it be good for?
+
+- Generating regular reporting decks
+- For techy types who like markdown
+
