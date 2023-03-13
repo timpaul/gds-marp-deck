@@ -12,7 +12,7 @@ headingDivider: 2
 # Generating GDS slide decks from Markdown
 ---
 
-This whole deck has been generated automatically from [this Markdown file](https://raw.githubusercontent.com/timpaul/gds-marp-deck/master/PITCHME.md), using a thing called [Marp](https://marp.app/) and a custom GDS theme.
+This deck has been generated from [a Markdown file](https://raw.githubusercontent.com/timpaul/gds-marp-deck/master/PITCHME.md), using a thing called [Marp](https://marp.app/) and a custom GDS theme.
 
 ## How does it work?
 
