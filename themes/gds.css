@@ -4,6 +4,7 @@
 
 :root {
   --color-fg-default: #0b0c0c;
+  --color-fg-inverted: #fff;
   --h1-color: #0b0c0c;
   --color-canvas-default: #f3f2f1;
   --color-canvas-inverted: #1d70b8;
@@ -12,6 +13,15 @@
 
 section {
   font-size: 42px;
+}
+
+section.title{
+  background: var(--color-canvas-inverted);
+  color: var(--color-fg-inverted:);
+}
+
+section.title footer{
+  display: none;
 }
 
 footer{
