@@ -9,8 +9,7 @@ headingDivider: 2
 ---
 
 <!-- _class: title -->
-# From markdown to slide deck
-
+# Generating slide decks from Markdown
 ---
 
 This whole deck has been generated automatically from [the markdown in this file](https://raw.githubusercontent.com/timpaul/gds-marp-deck/master/PITCHME.md), using a thing called [Marp](https://marp.app/).
