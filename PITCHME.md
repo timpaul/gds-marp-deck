@@ -2,6 +2,8 @@
 marp: true
 title: GDS Marp slide deck example
 description: Examples of GDS-themed slides using Marp
+theme: default
+footer: GDS
 headingDivider: 2
 ---
 
