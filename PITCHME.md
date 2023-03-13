@@ -21,13 +21,16 @@ When you push changes to it, it auto-publishes to [GitHub Pages](https://timpaul
 
 ## What's the big deal?
 
-This could be useful, because:
-
 - it lets authors focus on the content
-- the results are accessible and mobile friendly
-- the decks will be very consistently designed
-- the same markdown could be used to publish other formats
-- the markdown could be generated from dynamic data
+- the slide design becomes very consistent
+- the end results are accessible and mobile friendly
+- we're not reliant on Google Slides
+
+## Any other benefits?
+
+Markdown is just plan text. It can be written anywhere, and it's easy to generate automatically form data.
+
+For example, we could auto-generate decks from performance data, and re-use the same markdown to generate reports in other formats.
 
 ## What else can it do?
 
