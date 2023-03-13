@@ -11,9 +11,9 @@ headingDivider: 2
 
 Text on slide 1
 
-# Slide 2
+# Generate GDS slide decks from markdown
 
-Text on slide 2
+This deck has been generated automatically from [the markdown in this file](https://raw.githubusercontent.com/timpaul/gds-marp-deck/master/PITCHME.md)
 
 # Slide 3
 
