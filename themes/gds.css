@@ -16,6 +16,10 @@ section {
   font-size: 42px;
 }
 
+section ul{ 
+  padding-left: 1em;
+}
+
 section.title{
   background: var(--color-canvas-inverted);
   color: var(--color-fg-inverted);
