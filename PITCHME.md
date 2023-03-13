@@ -12,11 +12,12 @@ headingDivider: 2
 # Generating slide decks from Markdown
 ---
 
-This whole deck has been generated automatically from [the markdown in this file](https://raw.githubusercontent.com/timpaul/gds-marp-deck/master/PITCHME.md), using a thing called [Marp](https://marp.app/).
+This whole deck has been generated automatically from [this Markdown file](https://raw.githubusercontent.com/timpaul/gds-marp-deck/master/PITCHME.md), using a thing called [Marp](https://marp.app/).
 
 ## How does it work?
 
-The markdown file is hosted on GitHub. When you push changes to it, it auto-publishes to GitHub Pages.
+The markdown file is hosted in [a repo on GitHub](https://github.com/timpaul/gds-marp-deck/). 
+When you push changes to it, it auto-publishes to [GitHub Pages](https://timpaul.github.io/gds-marp-deck/).
 
 ## What's the big deal?
 
@@ -30,7 +31,7 @@ This could be useful, because:
 
 ## What else can it do?
 
-You can even add slides notes using markdown comments.
+You can add slides notes using markdown comments.
 
 Press 'p' to open presenter view.
 
