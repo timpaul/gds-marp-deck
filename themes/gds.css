@@ -17,7 +17,7 @@ section {
 
 section.title{
   background: var(--color-canvas-inverted);
-  color: var(--color-fg-inverted:);
+  color: var(--color-fg-inverted);
 }
 
 section.title footer{
