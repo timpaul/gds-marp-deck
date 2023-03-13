@@ -11,14 +11,14 @@
 }
 
 section {
-  background: #f3f2f1;
-  color: #0b0c0c;
+  font-size: 42px;
 }
 
 footer{
   background: var(--color-canvas-inverted);
   width: 100%;
   padding: 1em;
-  margin: 0 -2em;
+  left: 0;
   bottom: 0;
+  font-size: 21px
 }
