@@ -99,6 +99,10 @@ To see them, press 'p' to open presenter view.
 - For generating regular reporting decks
 - Especially ones full of performance data 
 
+---
 
+![Cabinet Office](./assets/co-logo.png)
 
+### Thanks!
+Tim Paul
 
