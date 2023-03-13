@@ -24,6 +24,10 @@ section.title footer{
   display: none;
 }
 
+section.title h1{  
+  color: var(--color-fg-inverted);
+}
+
 footer{
   background: var(--color-canvas-inverted);
   width: 100%;
