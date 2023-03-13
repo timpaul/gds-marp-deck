@@ -3,13 +3,12 @@ marp: true
 title: GDS Marp slide deck example
 description: Examples of GDS-themed slides using Marp
 theme: gds
-footer: GDS
+header: Product and Technology
+footer: Tim Paul
 headingDivider: 2
 ---
 
 <!-- _class: title -->
-Product and Technology
-
 # <!--fit--> Decks from Markdown
 
 ## Generate GDS slide decks from markdown
