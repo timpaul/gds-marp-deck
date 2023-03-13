@@ -9,9 +9,9 @@ headingDivider: 2
 ---
 
 <!-- _class: title -->
-# <!--fit--> Decks from Markdown
+# <!--fit--> Generating slide decks from Markdown using Marp
 
-## Generate GDS slide decks from markdown
+---
 
 This deck has been generated automatically from [the markdown in this file](https://raw.githubusercontent.com/timpaul/gds-marp-deck/master/PITCHME.md)
 
