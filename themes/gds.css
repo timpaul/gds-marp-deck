@@ -36,5 +36,18 @@ footer{
   left: 0;
   bottom: 0;
   font-size: 32px;
-  text-align: right;
+}
+
+footer::after {
+  content: 'GDS';
+  display: block;
+  float: right;
+}
+
+header{
+  display: none;
+}
+
+section.title header{
+ display: block; 
 }
