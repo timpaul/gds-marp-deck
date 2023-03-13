@@ -101,7 +101,7 @@ To see them, press 'p' to open presenter view.
 
 ---
 
-![Cabinet Office](./assets/co-logo.png)
+![Cabinet Office](./assets/cabinet-office-logo.png)
 
 ### Thanks!
 Tim Paul
