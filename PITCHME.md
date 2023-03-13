@@ -7,6 +7,8 @@ footer: GDS
 headingDivider: 2
 ---
 
+<!-- _class: title -->
+
 # Slide 1
 
 Text on slide 1
