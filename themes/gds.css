@@ -1,0 +1,8 @@
+/* @theme gds */
+
+@import 'default';
+
+section {
+  background: #ebebeb;
+  color: #0b0c0c;
+}
