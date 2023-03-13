@@ -2,6 +2,10 @@
 
 @import 'default';
 
+:root {
+  --h1-color: #0b0c0c;
+}
+
 section {
   background: #f3f2f1;
   color: #0b0c0c;
