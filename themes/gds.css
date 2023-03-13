@@ -17,4 +17,8 @@ section {
 
 footer{
   background: var(--color-canvas-inverted);
+  width: 100%;
+  padding: 1em;
+  margin: 0 -2em;
+  bottom: 0;
 }
