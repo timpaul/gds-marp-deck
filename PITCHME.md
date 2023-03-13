@@ -106,3 +106,6 @@ To see them, press 'p' to open presenter view.
 ### Thanks!
 Tim Paul
 
+## Slide with an image
+
+![Photo of someone speaking at a conference with the words 'This is for everyone' behind them](https://user-images.githubusercontent.com/1590604/224775378-71a3d389-e606-4355-999d-9c5526a85b56.jpg)
