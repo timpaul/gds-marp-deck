@@ -1,76 +1,22 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
-transition: fade
-paginate: true
-_paginate: false
+title: GDS Marp slide deck example
+description: Examples of GDS-themed slides using Marp
+headingDivider: 2
 ---
 
-![bg opacity](./assets/gradient.jpg)
+# Slide 1
 
-# <!--fit--> Marp CLI example
+Text on slide 1
 
-Hosting Marp slide deck on the web
+# Slide 2
 
-https://github.com/yhatt/marp-cli-example
+Text on slide 2
 
-<style scoped>a { color: #36c; }</style>
+# Slide 3
 
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+Text on slide 3
 
----
+# Slide 4
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
-
----
-
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
-
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
-
----
-
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
-
----
-
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
-
----
-
-![bg right 60%](https://icongr.am/simple/zeit.svg)
-
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
-
----
-
-### <!--fit--> :ok_hand:
-
----
-
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
+Text on slide 4
