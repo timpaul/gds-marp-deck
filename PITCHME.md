@@ -8,10 +8,9 @@ headingDivider: 2
 ---
 
 <!-- _class: title -->
+Product and Technology
 
 # <!--fit--> Decks from Markdown
-
-Product and Technology
 
 ## Generate GDS slide decks from markdown
 
