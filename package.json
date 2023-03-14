@@ -4,6 +4,10 @@
   "author": "Yuki Hattori <yukihattori1116@gmail.com>",
   "license": "WTFPL",
   "private": true,
+  "marp": {
+    "inputDir": "./slides",
+    "output": "./public"
+  },
   "scripts": {
     "build": "rimraf public && npm run -s og-image && npm run -s deck",
     "deck": "marp --no-stdin PITCHME.md -o public/index.html && ncp assets public/assets",
