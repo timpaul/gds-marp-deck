@@ -10,7 +10,7 @@
     "themeSet": "themes"
   },
   "scripts": {
-    "build": "rimraf public && npm run -s og-image && npm run -s deck",
+    "build": "rimraf public && npm run -s deck",
     "deck": "marp --no-stdin && ncp assets public/assets",
     "og-image": "marp --no-stdin PITCHME.md -o public/og-image.jpg",
     "start": "marp -ps .",
